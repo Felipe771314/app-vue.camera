@@ -1,7 +1,7 @@
 <template>
   <div id="container">
     <strong>{{ name }}</strong>
-    <p>Explore <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
+    <p>Proximamente <a target="_blank" rel="noopener noreferrer">Mas funcionalidades aca</a></p>
   </div>
 </template>
 
